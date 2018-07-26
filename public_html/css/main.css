@@ -12,8 +12,10 @@ height: 400px !important;
 
 .navbar{
     margin-bottom: 0px !important;
+    border-radius: 0px !important;
 }
 .main-content{
     padding-top: 10px;
     background-color: lavender;
 }
+
